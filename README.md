@@ -1,11 +1,11 @@
 <h1 align = "center">Hi, Everyone!! <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283921041-ee96ba74-1bed-4ea6-b9d9-a20d8aef1938.gif" height = 30px width = 30px> </h1>
 
 <p align = "center">
-  
+	
+<!-- ![GitHub followers](https://img.shields.io/github/followers/Japneet001)
+![Profile Views](https://komarev.com/ghpvc/?username=Japneet001) -->
+	
 ![Japneet Kaur](https://github.com/Japneet001/Japneet001/assets/121337325/09aad0a8-82ee-4699-82a6-569efe2a5d1b)
-
-![GitHub followers](https://img.shields.io/github/followers/Japneet001)
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Japneet001) -->
 </p>
 
 <p align = "center"><img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFA550&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Always+learning+new+things"></p>
