@@ -66,12 +66,13 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 <table>
   <tr>
     <td align="center">
-<img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=Japneet001&count_private=true&theme=dark" alt=""></img>
-</td>
-<td align="center">
-<img alt="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Japneet001&theme=dark"" alt=""></img>
-</td>
+	<img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=Japneet001&count_private=true&theme=dark"></img>
+    </td>
+    <td align="center">
+	<img alt="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Japneet001&theme=dark"></img>
+    </td>
 </table>
+
 <details>
 <summary>GitHub Stats</summary>
 
