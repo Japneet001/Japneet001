@@ -2,9 +2,6 @@
 
 <p align = "center">
 	
-<!-- ![GitHub followers](https://img.shields.io/github/followers/Japneet001)
-![Profile Views](https://komarev.com/ghpvc/?username=Japneet001) -->
-	
 ![Japneet Kaur](https://github.com/Japneet001/Japneet001/assets/121337325/09aad0a8-82ee-4699-82a6-569efe2a5d1b)
 </p>
 
@@ -103,7 +100,8 @@ Feel free to explore my repositories, and let's embark on a journey of building 
     <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Japneet001&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
 </details>
 
-
+![GitHub followers](https://img.shields.io/github/followers/Japneet001)
+![Profile Views](https://komarev.com/ghpvc/?username=Japneet001)
 
 <!-- 
 
