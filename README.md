@@ -53,7 +53,11 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 
 
 
-<!-- ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2315172F.svg?style=for-the-badge&logo=python&logoColor=white) ![Google Cloud Platform](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
+<!-- ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2315172F.svg?style=for-the-badge&logo=python&logoColor=white) 
+![Google Cloud Platform](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%234285F4.svg?style=for-the-badge&logo=latex&logoColor=white) -->
 
 
@@ -67,9 +71,6 @@ Feel free to explore my repositories, and let's embark on a journey of building 
     </td>
     <td align="center">
 	<img alt="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Japneet001&hide_border=true&theme=dark"></img>
-    </td>
-    <td align="center">
-	<img alt="" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japneet001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></img>
     </td>
 </table>
 
@@ -90,7 +91,7 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 <details>
 <summary>GitHub Languages Over Time</summary>
 
-[![Japneet001's GitHub | Languages Over Time](https://stats.quine.sh/Japneet001/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Japneet001)
+![Japneet001's GitHub | Languages Over Time](https://github-readme-stats.vercel.app/api/top-langs/?username=Japneet001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </details>
 
 <details> 
