@@ -63,10 +63,13 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 <table>
   <tr>
     <td align="center">
-	<img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=Japneet001&count_private=true&theme=dark"></img>
+	<img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=Japneet001&count_private=true&hide_border=true&theme=dark"></img>
     </td>
     <td align="center">
-	<img alt="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Japneet001&theme=dark"></img>
+	<img alt="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Japneet001&hide_border=true&theme=dark"></img>
+    </td>
+    <td align="center">
+	<img alt="" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Japneet001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"></img>
     </td>
 </table>
 
