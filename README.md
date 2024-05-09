@@ -30,6 +30,7 @@
 2. **VOTE - OFF**
 3. **CALCDIVERSE**
 4. **ZERODHA LANDING PAGE**
+5. **INVESTPRO - EMPOWERING YOUR INVESTMENT SUCCESS**
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Preferred Programming Languages and Tools
 
@@ -47,6 +48,9 @@
 ![Microsoft Excel](https://img.shields.io/badge/MS%20Excel-%23217346.svg?style=for-the-badge&logo=microsoftexcel&logoColor=white) 
 ![Microsoft PowerPoint](https://img.shields.io/badge/MS%20PowerPoint-%23B7472A.svg?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%2315172F.svg?style=for-the-badge&logo=python&logoColor=white)
 
 Feel free to explore my repositories, and let's embark on a journey of building something extraordinary! 🚀✨
 
@@ -54,9 +58,6 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 
 
 <!-- ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%2315172F.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![Google Cloud Platform](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%234285F4.svg?style=for-the-badge&logo=latex&logoColor=white) -->
 
@@ -74,25 +75,26 @@ Feel free to explore my repositories, and let's embark on a journey of building 
     </td>
 </table>
 
-<details>
+<!--<details>
 <summary>GitHub Stats</summary>
 
 [![Japneet001's GitHub | Stats](https://stats.quine.sh/Japneet001/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Japneet001)
 </details>
+-->
 
-
-<details>
+<!--<details>
 <summary>GitHub Topics Over Time</summary>
 
 [![Japneet001's GitHub | Topics Over Time](https://stats.quine.sh/Japneet001/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Japneet001)
 </details>
-
+-->
 
 <details>
 <summary>GitHub Languages Over Time</summary>
 
 ![Japneet001's GitHub | Languages Over Time](https://github-readme-stats.vercel.app/api/top-langs/?username=Japneet001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </details>
+
 
 <details> 
 	<summary>GitHub Profile Trophies</summary>
@@ -107,7 +109,7 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 ![GitHub followers](https://img.shields.io/github/followers/Japneet001)
 ![Profile Views](https://komarev.com/ghpvc/?username=Japneet001)
 
-<!-- 
+
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269538977-6fcc0b23-7e1d-486d-a645-af95004682f8.gif" width = 37px>&nbsp;&nbsp; Coding Profiles
 <p align = "left">
@@ -115,8 +117,8 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 <a href = "https://leetcode.com/Japneet001/"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=oval-square&logo=LeetCode&logoColor=white"/></a>
 <a href = "https://auth.geeksforgeeks.org/user/jkaur01n6fh"><img src = "https://img.shields.io/badge/GeeksforGeeks-298D46?style=oval-square&logo=geeksforgeeks&logoColor=white"/></a>
 <!-- <a href = "https://www.cloudskillsboost.google/public_profiles/29e851f3-5a90-4e77-87ae-8b1d1a2c10b3"><img src = "https://img.shields.io/badge/Google_Cloud-4285F4?style=oval-square&logo=google-cloud&logoColor=white"/></a> -->
-<!-- </p><br>
-
+</p><br>
+<!--
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285129726-a6628da9-8d12-4380-9e51-136b230ff9ea.gif" width = 41px>&nbsp;&nbsp; Open Source Contributions
 | S.No. | Open Source Programs | Duration | Role | Rewards |
 |:-----:|:-----:|:-----:|:-----:|:-----:|
@@ -129,4 +131,5 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 | 7. | Scaler 30 Days Open Source | 1<sup>st</sup> September - 30<sup>th</sup> September 2022 | Challenger | [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_scaler-opensource-challenge-activity-7102342887673098240-iuyP?utm_source=share&utm_medium=member_desktop) |
 | 8. | Hack Club RAIT Summer Of Code| 15<sup>th</sup> July - 30<sup>th</sup> August 2022 | Contributor<br>Project Maintainer | [Certificates](https://www.linkedin.com/posts/rakesh-roshan-9100_connections-hackclubrait2k22-opensource-activity-7101590677494390784-jSpj?utm_source=share&utm_medium=member_desktop) |
 | 9. | GirlScript Summer Of Code | 1<sup>st</sup> Mar - 31<sup>st</sup> May 2022 | Contributor | 1. [Certificate & LOR](https://www.linkedin.com/posts/rakesh-roshan-9100_gssoc-gssoc2k22-opensource-activity-7101225717459251200-FsP0?utm_source=share&utm_medium=member_desktop)<br> 2. [Swags](https://www.linkedin.com/posts/rakesh-roshan-9100_girlscriptsummerofcode2k22-topcontributor-activity-7101447973200379904-NrcH?utm_source=share&utm_medium=member_desktop) |
-<br> --> 
+<br> 
+-->
