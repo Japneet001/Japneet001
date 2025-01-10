@@ -71,7 +71,9 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 	<img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=Japneet001&count_private=true&hide_border=true&theme=dark"></img>
     </td>
     <td align="center">
-	<img alt="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Japneet001&hide_border=true&theme=dark"></img>
+<!-- 	<img alt="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Japneet001&theme=dark&hide_border=true"></img> -->
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=Japneet001&theme=dark&hide_border=true" alt="GitHub Streak" />
+<!-- 	<img src="https://camo.githubusercontent.com/2effdd55e417ced26dbd1fcf9db6d22de77ac4c81b7eee371d9043afca153123/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d4a61706e656574303031267468656d653d6461726b26686964655f626f726465723d74727565" alt="GitHub Streak" /> -->
     </td>
 </table>
 
