@@ -2,16 +2,14 @@
 
 <p align="center">
   <!-- Dark Mode -->
-  <a href="https://github.com/Japneet001#gh-dark-mode-only">
-    <img src="https://github.com/Japneet001/Japneet001/assets/121337325/09aad0a8-82ee-4699-82a6-569efe2a5d1b" alt="Japneet Kaur" />
-  </a>
+  	<a href="https://github.com/Japneet001#gh-dark-mode-only">
+      	<!-- <img src="https://github.com/Japneet001/Japneet001/assets/121337325/09aad0a8-82ee-4699-82a6-569efe2a5d1b" alt="Japneet Kaur" /> -->
+		<img alt="Dark Theme Banner" src="https://github.com/user-attachments/assets/8db02e7e-0fa6-45df-aabd-08f608313f17" />
+ 	</a>
   <!-- Light Mode -->
-  <a href="https://github.com/Japneet001#gh-light-mode-only">
-    <img
-      src="LIGHT_IMAGE_URL_HERE"
-      alt="Japneet Kaur"
-    />
-  </a>
+  	<a href="https://github.com/Japneet001#gh-light-mode-only">
+		<img alt="Light Theme Banner" src="https://github.com/user-attachments/assets/a9f796cb-09ee-4e0d-90b5-963c5790bece" />
+  	</a>
 </p>
 
 
