@@ -70,14 +70,14 @@ Feel free to explore my repositories, and let's embark on a journey of building 
       <!-- GitHub Stats - Dark Mode -->
       <a href="https://github.com/Japneet001/github-readme-stats#gh-dark-mode-only">
         <img
-          src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=dark&show_icons=true&hide_border=true&rank_icon=percentile#gh-dark-mode-only"
-          alt="Japneet's GitHub stats - Dark"
+          src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=transparent&show_icons=true&hide_border=true&rank_icon=percentile&text_bold=false&title_color=fff&text_color=e1e1e1&icon_color=ff9100&ring_color=ff9100#gh-dark-mode-only"
+          alt="Japneet's GitHub stats"
         />
       </a>
       <!-- GitHub Stats - Light Mode -->
 		<a href="https://github.com/Japneet001/github-readme-stats#gh-light-mode-only">
         <img
-          src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=default&show_icons=true&hide_border=true&rank_icon=percentile&text_bold=false&title_color=000000&text_color=000000&icon_color=ff9100&ring_color=ff9100#gh-light-mode-only"
+          src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=default&show_icons=true&hide_border=true&rank_icon=percentile&text_bold=false&title_color=000&text_color=000&icon_color=ff9100&ring_color=ff9100#gh-light-mode-only"
           alt="Japneet's GitHub stats"
         />
       </a>
@@ -85,11 +85,8 @@ Feel free to explore my repositories, and let's embark on a journey of building 
     <td align="center">
       <!-- GitHub Streak - Dark Mode -->
       <a href="https://git.io/streak-stats#gh-dark-mode-only">
-        <img
-          src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Japneet001&theme=dark&hide_border=true#gh-dark-mode-only"
-          alt="Japneet's GitHub streak - Dark"
-        />
-      </a>
+		  <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Japneet001&theme=transparent&hide_border=true&ring=FF9100&fire=FF9100&currStreakNum=FFFFFF&currStreakLabel=FF9100&dates=9F9F9F&sideNums=FFFFFF&sideLabels=E1E1E1&stroke=FFFFFF#gh-dark-mode-only" alt="GitHub Streak" />
+	  </a>
       <!-- GitHub Streak - Light Mode -->
       <a href="https://git.io/streak-stats#gh-light-mode-only">
         <img
