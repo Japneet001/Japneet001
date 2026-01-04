@@ -1,13 +1,23 @@
 <h1 align = "center">Hi, Everyone!! <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283921041-ee96ba74-1bed-4ea6-b9d9-a20d8aef1938.gif" height = 30px width = 30px> </h1>
 
-<p align = "center">
-	
-![Japneet Kaur](https://github.com/Japneet001/Japneet001/assets/121337325/09aad0a8-82ee-4699-82a6-569efe2a5d1b)
+<p align="center">
+  <!-- Dark Mode -->
+  <a href="https://github.com/Japneet001#gh-dark-mode-only">
+    <img src="https://github.com/Japneet001/Japneet001/assets/121337325/09aad0a8-82ee-4699-82a6-569efe2a5d1b" alt="Japneet Kaur" />
+  </a>
+  <!-- Light Mode -->
+  <a href="https://github.com/Japneet001#gh-light-mode-only">
+    <img
+      src="LIGHT_IMAGE_URL_HERE"
+      alt="Japneet Kaur"
+    />
+  </a>
 </p>
+
 
 <p align = "center">
 	<a href="https://git.io/typing-svg">
-		<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=900&size=30&duration=4000&pause=500&color=FF9100&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+		<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=900&size=30&duration=4000&pause=500&color=FF9100&center=true&vCenter=true&width=500&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 	</a>
 </p>
 
