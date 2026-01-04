@@ -104,7 +104,7 @@ Feel free to explore my repositories, and let's embark on a journey of building 
       <!-- GitHub Streak - Light Mode -->
       <a href="https://git.io/streak-stats#gh-light-mode-only">
         <img
-          src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Japneet001&theme=dark&hide_border=true#gh-light-mode-only"
+          src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Japneet001&theme=default&hide_border=true&icon_color=79ff97#gh-light-mode-only"
           alt="Japneet's GitHub streak - Light"
         />
       </a>
