@@ -5,7 +5,11 @@
 ![Japneet Kaur](https://github.com/Japneet001/Japneet001/assets/121337325/09aad0a8-82ee-4699-82a6-569efe2a5d1b)
 </p>
 
-<p align = "center"><img src = "https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23FFA550&size=25&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Always+learning+new+things"></p>
+<p align = "center">
+	<a href="https://git.io/typing-svg">
+		<img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=900&size=30&duration=4000&pause=500&color=FF9100&center=true&vCenter=true&width=500&height=100&lines=Computer+Science+Engineering+Student;Coding+and+Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+	</a>
+</p>
 
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif" width = 41px>&nbsp;&nbsp; About Me
@@ -68,58 +72,60 @@ Feel free to explore my repositories, and let's embark on a journey of building 
   <tr>
     <td align="center">
       <!-- GitHub Stats - Dark Mode -->
-      <a href="https://github.com/Japneet001/github-readme-stats#gh-dark-mode-only">
-        <img
-          src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=transparent&show_icons=true&hide_border=true&rank_icon=percentile&text_bold=false&title_color=fff&text_color=e1e1e1&icon_color=ff9100&ring_color=ff9100#gh-dark-mode-only"
-          alt="Japneet's GitHub stats"
-        />
-      </a>
+      	<a href="https://github.com/Japneet001/github-readme-stats#gh-dark-mode-only">
+	        <img
+	          src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=transparent&show_icons=true&hide_border=true&rank_icon=percentile&text_bold=false&title_color=fff&text_color=e1e1e1&icon_color=ff9100&ring_color=ff9100"
+	          alt="Japneet's GitHub stats"
+	        />
+      	</a>
       <!-- GitHub Stats - Light Mode -->
 		<a href="https://github.com/Japneet001/github-readme-stats#gh-light-mode-only">
-        <img
-          src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=default&show_icons=true&hide_border=true&rank_icon=percentile&text_bold=false&title_color=000&text_color=000&icon_color=ff9100&ring_color=ff9100#gh-light-mode-only"
-          alt="Japneet's GitHub stats"
-        />
+	        <img
+	          src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=default&show_icons=true&hide_border=true&rank_icon=percentile&text_bold=false&title_color=000&text_color=000&icon_color=ff9100&ring_color=ff9100"
+	          alt="Japneet's GitHub stats"
+	        />
       </a>
     </td>
     <td align="center">
       <!-- GitHub Streak - Dark Mode -->
-      <a href="https://git.io/streak-stats#gh-dark-mode-only">
-		  <img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Japneet001&theme=transparent&hide_border=true&ring=FF9100&fire=FF9100&currStreakNum=FFFFFF&currStreakLabel=FF9100&dates=9F9F9F&sideNums=FFFFFF&sideLabels=E1E1E1&stroke=FFFFFF#gh-dark-mode-only" alt="GitHub Streak" />
-	  </a>
+      	<a href="https://git.io/streak-stats#gh-dark-mode-only">
+		  	<img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Japneet001&theme=transparent&hide_border=true&ring=FF9100&fire=FF9100&currStreakNum=FFFFFF&currStreakLabel=FF9100&dates=9F9F9F&sideNums=FFFFFF&sideLabels=E1E1E1&stroke=FFFFFF" 
+			  alt="Japneet's GitHub Streak" 
+		   	/>
+	  	</a>
       <!-- GitHub Streak - Light Mode -->
-      <a href="https://git.io/streak-stats#gh-light-mode-only">
-        <img
-          src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Japneet001&theme=default&hide_border=true&icon_color=79ff97#gh-light-mode-only"
-          alt="Japneet's GitHub streak - Light"
-        />
-      </a>
+	  	<a href="https://git.io/streak-stats#gh-light-mode-only">
+			<img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Japneet001&theme=default&hide_border=true&icon_color=79ff97"
+				alt="Japneet's GitHub Streak"
+			/>
+	  	</a>
     </td>
   </tr>
 </table>
  
 
 
-<details>
+<!-- <details>
 <summary>GitHub Topics Over Time</summary>
 
 [![Japneet001's GitHub | Topics Over Time](https://stats.quine.sh/Japneet001/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Japneet001)
-</details>
+</details> -->
 
 <details>
 	<summary>GitHub Languages Over Time</summary>
 	<p align = "center"> 
+      <!-- GitHub Languages Over Time - Dark Mode -->
 		<a href="https://github.com/Japneet001?tab=repositories#gh-dark-mode-only">
 	        <img
-	          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Japneet001&layout=compact&theme=transparent&text_color=e1e1e1&hide_border=true&hide_title=true&exclude_repo=IndiGro-Predict.Prevent.Prosper,Titanic-Survival-Prediction,Logistic-Regression&size_weight=0.5&count_weight=0.5&langs_count=20#gh-dark-mode-only"
+	          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Japneet001&layout=compact&theme=transparent&text_color=e1e1e1&hide_border=true&hide_title=true&exclude_repo=IndiGro-Predict.Prevent.Prosper,Titanic-Survival-Prediction,Logistic-Regression&size_weight=0.5&count_weight=0.5&langs_count=20"
 	          alt="Languages Over Time"
 	        />
       	</a>
-      <!-- GitHub Languages Over Time -->
+      <!-- GitHub Languages Over Time - Light Mode -->
 	  	<a href="https://github.com/Japneet001?tab=repositories#gh-light-mode-only">
 			<img
-			  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Japneet001&layout=compact&theme=default&text_color=000&hide_border=true&hide_title=true&exclude_repo=IndiGro-Predict.Prevent.Prosper,Titanic-Survival-Prediction,Logistic-Regression&size_weight=0.5&count_weight=0.5&langs_count=20#gh-light-mode-only"
-			  alt="Languages Over Time - Light"
+			  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Japneet001&layout=compact&theme=default&text_color=000&hide_border=true&hide_title=true&exclude_repo=IndiGro-Predict.Prevent.Prosper,Titanic-Survival-Prediction,Logistic-Regression&size_weight=0.5&count_weight=0.5&langs_count=20"
+			  alt="Languages Over Time"
 			/>
 	  	</a>
 	</p>
@@ -128,10 +134,19 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 
 <details> 
 	<summary>GitHub Profile Trophies</summary>
-	<p align = "center"> <img src = "https://github-profile-trophy.vercel.app/?username=Japneet001&layout=compact&theme=radical&column=5&margin-w=14&margin-h=14" alt = "Trophies"/> </p>
+	<p align = "center"> 
+		<!-- Github Profile Trophies - Dark Mode -->
+		<a href="https://github.com/Japneet001#gh-dark-mode-only">
+			<img src = "https://github-profile-trophy.vercel.app/?username=Japneet001&theme=gitdimmed&no-bg=true&no-frame=true&column=7&margin-w=14&margin-h=14&title=Stars,PullRequest,Repositories,Commits,Followers,Experience,Issues,-Reviews" alt = "Trophies"/>
+		</a>
+		<!-- Github Profile Trophies - Light Mode -->
+		<a href="https://github.com/Japneet001#gh-light-mode-only">
+			<img src = "https://github-profile-trophy.vercel.app/?username=Japneet001&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=14&margin-h=14&title=Stars,PullRequest,Repositories,Commits,Followers,Experience,Issues,-Reviews" alt = "Trophies"/>
+		</a>
+	</p>
 </details>
 
-<details>
+<!-- <details>
     <summary>Recent GitHub Activity</summary>
     <p align="center"> 
         <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
@@ -141,7 +156,7 @@ Feel free to explore my repositories, and let's embark on a journey of building 
             />
         </a>
     </p>
-</details>
+</details> -->
 
 
 
