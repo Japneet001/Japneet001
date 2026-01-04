@@ -64,32 +64,21 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283932715-9307f2e9-03b3-4b2f-afc4-17f425b4a8ab.gif" width = 50px>&nbsp;&nbsp; My Github Stats
 
-
-<!-- <table>
-  <tr>
-    <td align="center">
-		<img src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=dark&show_icons=true&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td align="center">
-		<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Japneet001&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-    </td>
-</table> -->
-
 <table>
   <tr>
     <td align="center">
       <!-- GitHub Stats - Dark Mode -->
       <a href="https://github.com/Japneet001/github-readme-stats#gh-dark-mode-only">
         <img
-          src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=dark&show_icons=true&hide_border=true#gh-dark-mode-only"
+          src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=dark&show_icons=true&hide_border=true&rank_icon=percentile#gh-dark-mode-only"
           alt="Japneet's GitHub stats - Dark"
         />
       </a>
       <!-- GitHub Stats - Light Mode -->
-      <a href="https://github.com/Japneet001/github-readme-stats#gh-light-mode-only">
+		<a href="https://github.com/Japneet001/github-readme-stats#gh-light-mode-only">
         <img
-          src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=default&show_icons=true&hide_border=true#gh-light-mode-only"
-          alt="Japneet's GitHub stats - Light"
+          src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=default&show_icons=true&hide_border=true&rank_icon=percentile&text_bold=false&title_color=000000&text_color=000000&icon_color=ff9100&ring_color=ff9100#gh-light-mode-only"
+          alt="Japneet's GitHub stats"
         />
       </a>
     </td>
