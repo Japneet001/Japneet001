@@ -65,36 +65,66 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283932715-9307f2e9-03b3-4b2f-afc4-17f425b4a8ab.gif" width = 50px>&nbsp;&nbsp; My Github Stats
 
 
+<!-- <table>
+  <tr>
+    <td align="center">
+		<img src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=dark&show_icons=true&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td align="center">
+		<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Japneet001&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+    </td>
+</table> -->
+
 <table>
   <tr>
     <td align="center">
-	<img alt="" width="400" src="https://github-readme-stats.vercel.app/api?username=Japneet001&count_private=true&hide_border=true&theme=dark"></img>
+      <!-- GitHub Stats - Dark Mode -->
+      <a href="https://github.com/Japneet001/github-readme-stats#gh-dark-mode-only">
+        <img
+          src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=dark&show_icons=true&hide_border=true#gh-dark-mode-only"
+          alt="Japneet's GitHub stats - Dark"
+        />
+      </a>
+      <!-- GitHub Stats - Light Mode -->
+      <a href="https://github.com/Japneet001/github-readme-stats#gh-light-mode-only">
+        <img
+          src="https://github-readme-stats-fast.vercel.app/api?username=Japneet001&theme=default&show_icons=true&hide_border=true#gh-light-mode-only"
+          alt="Japneet's GitHub stats - Light"
+        />
+      </a>
     </td>
     <td align="center">
-<!-- 	<img alt="" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Japneet001&theme=dark&hide_border=true"></img> -->
-	<img src="https://github-readme-streak-stats.herokuapp.com?user=Japneet001&theme=dark&hide_border=true" alt="GitHub Streak" />
-<!-- 	<img src="https://camo.githubusercontent.com/2effdd55e417ced26dbd1fcf9db6d22de77ac4c81b7eee371d9043afca153123/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d3f757365723d4a61706e656574303031267468656d653d6461726b26686964655f626f726465723d74727565" alt="GitHub Streak" /> -->
+      <!-- GitHub Streak - Dark Mode -->
+      <a href="https://git.io/streak-stats#gh-dark-mode-only">
+        <img
+          src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Japneet001&theme=dark&hide_border=true#gh-dark-mode-only"
+          alt="Japneet's GitHub streak - Dark"
+        />
+      </a>
+      <!-- GitHub Streak - Light Mode -->
+      <a href="https://git.io/streak-stats#gh-light-mode-only">
+        <img
+          src="https://github-readme-streak-stats-vijaypur.vercel.app?user=Japneet001&theme=dark&hide_border=true#gh-light-mode-only"
+          alt="Japneet's GitHub streak - Light"
+        />
+      </a>
     </td>
+  </tr>
 </table>
+ 
 
-<!--<details>
-<summary>GitHub Stats</summary>
 
-[![Japneet001's GitHub | Stats](https://stats.quine.sh/Japneet001/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Japneet001)
-</details>
--->
-
-<!--<details>
+<details>
 <summary>GitHub Topics Over Time</summary>
 
 [![Japneet001's GitHub | Topics Over Time](https://stats.quine.sh/Japneet001/topics-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Japneet001)
 </details>
--->
 
 <details>
-<summary>GitHub Languages Over Time</summary>
-
-![Japneet001's GitHub | Languages Over Time](https://github-readme-stats.vercel.app/api/top-langs/?username=Japneet001&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+	<summary>GitHub Languages Over Time</summary>
+	<p align = "center"> 
+		<img src = "https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Japneet001&layout=compact&theme=dark" alt = "Languages Over Time"/> 
+	</p>
 </details>
 
 
@@ -105,8 +135,17 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 
 <details>
     <summary>Recent GitHub Activity</summary>
-    <p align = "center"> <img src = "https://github-readme-activity-graph.vercel.app/graph?username=Japneet001&theme=redical&area=true&radius=14" alt = "Activity Graph"> </p>
+    <p align="center"> 
+        <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+            <img
+              src="https://github-readme-activity-graph.vercel.app/graph?username=Japneet001&days=30&height=230&bg_color=0d1117&color=c9d1d9&title_color=c9d1d9&line=f78166&point=ffdd99&area_color=ff9b73&area=true&hide_border=true&radius=14"
+              alt="Japneet's GitHub Activity Graph (Last 30 Days)"
+            />
+        </a>
+    </p>
 </details>
+
+
 
 ![GitHub followers](https://img.shields.io/github/followers/Japneet001)
 ![Profile Views](https://komarev.com/ghpvc/?username=Japneet001)
