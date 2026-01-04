@@ -109,7 +109,19 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 <details>
 	<summary>GitHub Languages Over Time</summary>
 	<p align = "center"> 
-		<img src = "https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Japneet001&layout=compact&theme=dark" alt = "Languages Over Time"/> 
+		<a href="https://github.com/Japneet001?tab=repositories#gh-dark-mode-only">
+	        <img
+	          src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Japneet001&layout=compact&theme=dark&hide_title=true&exclude_repo=IndiGro-Predict.Prevent.Prosper,Titanic-Survival-Prediction,Logistic-Regression&size_weight=0.5&count_weight=0.5&langs_count=20#gh-dark-mode-only"
+	          alt="Languages Over Time"
+	        />
+      	</a>
+      <!-- GitHub Languages Over Time -->
+	  	<a href="https://github.com/Japneet001?tab=repositories#gh-light-mode-only">
+			<img
+			  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Japneet001&layout=compact&theme=default&hide_title=true&exclude_repo=IndiGro-Predict.Prevent.Prosper,Titanic-Survival-Prediction,Logistic-Regression&size_weight=0.5&count_weight=0.5&langs_count=20#gh-light-mode-only"
+			  alt="Languages Over Time - Light"
+			/>
+	  	</a>
 	</p>
 </details>
 
