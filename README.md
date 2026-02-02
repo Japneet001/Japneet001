@@ -38,11 +38,11 @@
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/63473496/269540879-79d3b4fa-d8fc-4348-94a1-7df5414d1ab3.gif" height = 41px> Key Academic Projects
 
-1. **FITTER HEALTH**
-2. **VOTE - OFF**
-3. **CALCDIVERSE**
-4. **ZERODHA LANDING PAGE**
-5. **INVESTPRO - EMPOWERING YOUR INVESTMENT SUCCESS**
+1. **CareConnect360**
+2. **FocusFlow**
+3. **ShopSphere**
+4. **WeatherScape**
+5. **InvestPro**
 
 ## <img src = "https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/285126925-0b3a8bfe-ddfb-4c7f-93db-3517b0b6fe69.gif" width = 36px>&nbsp;&nbsp; Preferred Programming Languages and Tools
 
