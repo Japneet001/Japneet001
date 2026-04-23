@@ -140,19 +140,19 @@ Feel free to explore my repositories, and let's embark on a journey of building 
 </details>
 
 
-<details> 
+<!-- <details> 
 	<summary>GitHub Profile Trophies</summary>
 	<p align = "center"> 
-		<!-- Github Profile Trophies - Dark Mode -->
+		// Github Profile Trophies - Dark Mode
 		<a href="https://github.com/Japneet001#gh-dark-mode-only">
 			<img src = "https://github-profile-trophy.vercel.app/?username=Japneet001&theme=gitdimmed&no-bg=true&no-frame=true&column=7&margin-w=14&margin-h=14&title=Stars,PullRequest,Repositories,Commits,Followers,Experience,Issues,-Reviews" alt = "Trophies"/>
 		</a>
-		<!-- Github Profile Trophies - Light Mode -->
+		// Github Profile Trophies - Light Mode
 		<a href="https://github.com/Japneet001#gh-light-mode-only">
 			<img src = "https://github-profile-trophy.vercel.app/?username=Japneet001&theme=flat&no-bg=true&no-frame=true&column=7&margin-w=14&margin-h=14&title=Stars,PullRequest,Repositories,Commits,Followers,Experience,Issues,-Reviews" alt = "Trophies"/>
 		</a>
 	</p>
-</details>
+</details> -->
 
 <!-- <details>
     <summary>Recent GitHub Activity</summary>
